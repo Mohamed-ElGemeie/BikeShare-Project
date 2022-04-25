@@ -51,7 +51,7 @@ Offered by Udacity in their Data analysis professional NanoDegree offered by EGF
 
 <!-- GETTING STARTED -->
 ## Getting Started
-* Download the required Datasets:<br>
+* Download the required Datasets from [here](https://drive.google.com/drive/folders/1OzTLEOX9KKTeJn7BUk4CsXWA2x7YdKCK?usp=sharing):<br>
     * Chicago.csv
     * new_york_city.csv
     * washington.csv
